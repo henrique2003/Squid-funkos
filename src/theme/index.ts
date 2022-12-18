@@ -9,8 +9,10 @@ export default {
     PINK: '#E84381'
   },
   FONT_FAMILY: {
-    REGULAR: 'Outfit_400Regular',
-    SEMIBOLD: 'Outfit_600SemiBold'
+    OUTFIT_REGULAR: 'Outfit_400Regular',
+    OUTFIT_MEDIUM: 'Outfit_500Medium',
+    OUTFIT_SEMIBOLD: 'Outfit_600SemiBold',
+    AUDIOWIDE_REGULAR: 'Audiowide_400Regular'
   },
   FONT_SIZE: {
     SSML: 12,
