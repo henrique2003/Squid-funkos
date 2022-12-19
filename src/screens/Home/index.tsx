@@ -13,7 +13,7 @@ export const Home: React.FC<Props> = ({ navigation }) => {
     <S.Container source={banner}>
       <S.Logo source={logo} />
       <S.BannerBuy>
-          <S.Text>Compre o funko de Squid Game que voce mais gosta! </S.Text>
+          <S.Text>Compre funkos de Squid Game que voce mais gosta! </S.Text>
           <S.Button
             onPress={() => navigation.navigate('Store')}
             activeOpacity={0.8}

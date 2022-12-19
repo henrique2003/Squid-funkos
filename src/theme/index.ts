@@ -3,7 +3,7 @@ export default {
     WHITE: '#FFFFFF',
     RED: '#AA062A',
     WINE: '#140408',
-    LIGHT_WINE: '#201013',
+    LIGHT_WINE: '#251215',
     YELLOW: '#FFB776',
     DARK: '#000000',
     DARK_OPACITY: 'rgba(28,28,28,0.6)',
