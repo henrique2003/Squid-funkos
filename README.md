@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-O Squid funkos e o comeco de uma ideia de app para venda de funkos do squid game.
+O Squid funkos é o comeco de uma ideia de app para venda de funkos do squid game.
 
 Esta é uma simples aplicação que consiste em uma pagina inicial e outra com os funkos que podem ser adiquiridos.
 
