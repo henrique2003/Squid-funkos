@@ -3,12 +3,13 @@ import styled from 'styled-components/native'
 export const Container = styled.View`
   flex: 1;
   background: ${({ theme }) => theme.COLORS.WINE};
-  padding: 15px 30px;
+  padding: 30px 0;
   `
 
 export const Navbar = styled.View`
   flex-direction: row;
   justify-content: space-between;
+  margin: 0 30px;
   margin-top: 20px;
   margin-bottom: 20px;
 `
@@ -36,6 +37,7 @@ export const MenuIcon = styled.Image`
 `
 
 export const Subtitle = styled.Text`
+  margin: 0 30px;
   margin-top: 20px;
   color: ${({ theme }) => theme.COLORS.WHITE};
   font-family: ${({ theme }) => theme.FONT_FAMILY.OUTFIT_SEMIBOLD};

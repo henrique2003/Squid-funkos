@@ -8,6 +8,7 @@ export const Container = styled.View`
   height: 85px;
   margin-top: 40px;
   margin-right: 15px;
+  margin-left: 15px;
 `
 
 export const Funko = styled.Image`

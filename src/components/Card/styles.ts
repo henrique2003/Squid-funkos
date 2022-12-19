@@ -9,6 +9,7 @@ export const Container = styled.View`
   text-align: center;
   margin-top: 80px;
   margin-right: 15px;
+  margin-left: 15px;
 `
 
 export const Funko = styled.Image`
