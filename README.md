@@ -8,7 +8,7 @@ O Squid funkos e o comeco de uma ideia de app para venda de funkos do squid game
 Esta é uma simples aplicação que consiste em uma pagina inicial e outra com os funkos que podem ser adiquiridos.
 
 ## Layout
-![Mobile 1](https://github.com/henrique2003/Squid-funkos/tree/master/src/assets/home.png) ![Mobile 2](https://github.com/henrique2003/Squid-funkos/tree/master/src/assets/store.png)
+![Mobile 1](https://github.com/henrique2003/Squid-funkos/blob/master/src/assets/screens/home.png) ![Mobile 2](https://github.com/henrique2003/Squid-funkos/blob/master/src/assets/screens/store.png)
 
 # Tecnologias utilizadas
 - React Native
