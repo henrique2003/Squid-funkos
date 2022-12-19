@@ -1,12 +1,14 @@
 export default {
   COLORS: {
     WHITE: '#FFFFFF',
-    RED: '#63182F',
+    RED: '#AA062A',
     WINE: '#140408',
     LIGHT_WINE: '#201013',
     YELLOW: '#FFB776',
     DARK: '#000000',
-    PINK: '#E84381'
+    DARK_OPACITY: 'rgba(28,28,28,0.6)',
+    // PINK: '#E84381',
+    PINK: '#FD517A'
   },
   FONT_FAMILY: {
     OUTFIT_REGULAR: 'Outfit_400Regular',

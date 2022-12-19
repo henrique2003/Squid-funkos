@@ -1,3 +1,4 @@
+import { Text } from 'react-native'
 import { StatusBar } from 'expo-status-bar'
 import { ThemeProvider } from 'styled-components'
 import { useFonts } from '@expo-google-fonts/outfit/useFonts'
@@ -5,7 +6,7 @@ import { Outfit_400Regular, Outfit_600SemiBold, Outfit_500Medium } from '@expo-g
 import { Audiowide_400Regular } from '@expo-google-fonts/audiowide'
 
 import theme from './src/theme'
-import { Text } from 'react-native'
+import { Routes } from './src/routes/index'
 
 function App (): JSX.Element {
   const [fontLoaded] = useFonts({
@@ -18,10 +19,12 @@ function App (): JSX.Element {
   return (
     <ThemeProvider theme={theme}>
         {fontLoaded
-          ? <>
-        </>
+          ? <Routes />
           : <Text>Loading</Text>}
-      <StatusBar backgroundColor='transparent' translucent />
+      <StatusBar
+        backgroundColor='transparent'
+        translucent
+      />
     </ThemeProvider>
   )
 }
