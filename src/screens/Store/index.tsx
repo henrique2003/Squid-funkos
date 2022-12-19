@@ -1,4 +1,3 @@
-import { Card } from '../../components/Card'
 import * as S from './styles'
 import {
   logo,
@@ -9,7 +8,7 @@ import {
   menu,
   soldier
 } from '../../assets'
-import { Category } from '../../components/Category'
+import { Card, Category } from '../../components'
 
 export const Store: React.FC = () => {
   return (
