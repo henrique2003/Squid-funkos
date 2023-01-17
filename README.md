@@ -27,7 +27,7 @@ Esta é uma simples aplicação que consiste em uma pagina inicial e outra com o
 # clonar repositório
 git clone https://github.com/henrique2003/Squid-funkos.git
 
-# entrar na pasta do projeto front end web
+# entrar na pasta do projeto
 cd squid-funkos
 
 # instalar dependências
